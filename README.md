@@ -1,5 +1,8 @@
 # Course-2-Microsoft-DAT201x-Querying-Data-with-Transact-SQL
 
+LINK FOR CERTIFICATE
+https://courses.edx.org/certificates/d72b983c0c7343ab8171a65ffc482e56
+
 
 Course Outline
 
